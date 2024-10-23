@@ -1,7 +1,4 @@
-# Oyku-Cabuk
-My portfolio basically
-a<div>
-  
+<div>  
 ## Oyku Cabuk
 
   <p>
