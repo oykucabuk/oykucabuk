@@ -2,7 +2,7 @@
 My portfolio basically
 a<div>
   
-## Naveed
+## Oyku Cabuk
 
   <p>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5C9EF7&random=false&width=435&lines=CS+Student;Tech+Enthusiast;IoT+Practioner;Aspiring+Software+Engineer" alt="Typing SVG" /></a>
@@ -10,7 +10,7 @@ a<div>
 
   <p>
  💫 About Me:
-👋 I'm Naveed, a computer science student passionate about learning new technologies and their implementations. With an experience in web development, I've had the opportunity to work on diverse projects and collaborate with talented individuals.<br><br>🚀 What Do I Do?<br>My expertise lies in programming, where I enjoy coding possibilities into reality. Whether it's developing web applications, diving into data analysis, or experimenting with machine learning models, I'm constantly exploring new technologies and pushing the boundaries of what's possible.<br><br>💼 What Can You Expect from This Repository?<br>In this repository, you'll find a variety of projects and code samples that showcase my skills and interests. From beginner-friendly tutorials to more advanced implementations, there's something here for developers of all levels.<br><br>📞 Get in Touch<br>I'm always eager to connect with fellow developers and enthusiasts! Whether you have a question about one of my projects or just want to chat about technology, feel free to reach out to me, I probably will take some time to reply to you but I can ensure you that I will surely do so anyways, here's my email syednaveed2006@gmail.com.<br><br>Thanks for stopping by, and happy coding!
+👋 I'm oyku, a computer science student passionate about learning new technologies and their implementations. With an experience in web development, I've had the opportunity to work on diverse projects and collaborate with talented individuals.<br><br>🚀 What Do I Do?<br>My expertise lies in programming, where I enjoy coding possibilities into reality. Whether it's developing web applications, diving into data analysis, or experimenting with machine learning models, I'm constantly exploring new technologies and pushing the boundaries of what's possible.<br><br>💼 What Can You Expect from This Repository?<br>In this repository, you'll find a variety of projects and code samples that showcase my skills and interests. From beginner-friendly tutorials to more advanced implementations, there's something here for developers of all levels.<br><br>📞 Get in Touch<br>I'm always eager to connect with fellow developers and enthusiasts! Whether you have a question about one of my projects or just want to chat about technology, feel free to reach out to me, I probably will take some time to reply to you but I can ensure you that I will surely do so anyways, here's my email syednaveed2006@gmail.com.<br><br>Thanks for stopping by, and happy coding!
   </p>
 
 
