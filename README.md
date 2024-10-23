@@ -1,5 +1,5 @@
 <div>  
-## **Oyku Cabuk**
+<h1>Oyku Cabuk</h1>
 
   <p>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5C9EF7&random=false&width=435&lines=CS+Student;Tech+Enthusiast;IoT+Practioner;Aspiring+Software+Engineer" alt="Typing SVG" /></a>
