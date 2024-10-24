@@ -9,6 +9,7 @@
 <div align="center">
  
  🔭 I’m currently working on:
+ <br />
 💻 C++ projects involving memory management and inheritance.
 🧠 Enhancing Python skills with a focus on AI and machine learning.
 🔬 Web development topics like DOM manipulation and CSS.
@@ -20,7 +21,7 @@
 👨‍💻 Programming: C, C++, Python, SQL, HTML/CSS.
 🛠️ Tools: Linux, Bash scripting.
 📊 Software development lifecycle, testing processes.
-
+ <br />
  </div>
  
 <div align="center"> 
