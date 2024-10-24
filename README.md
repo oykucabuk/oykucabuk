@@ -11,11 +11,9 @@
  🔭 I’m currently working on:
  <br />
 💻 C++ projects involving memory management and inheritance.
- <br />
 🧠 Enhancing Python skills with a focus on AI and machine learning.
- <br />
 🔬 Web development topics like DOM manipulation and CSS.
- <br />
+<br />
 🌱 I’m currently learning:
  <br />
 🗄️ Database normalization (1NF, 2NF, 3NF).
