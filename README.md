@@ -8,13 +8,18 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **learning new technologies**
- 
- 🌱 I’m currently learning **Python, Cloud technologies, AI and ML**
-
-<!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**-->
-
-<!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
+ 🔭 I’m currently working on:
+💻 C++ projects involving memory management and inheritance.
+🧠 Enhancing Python skills with a focus on AI and machine learning.
+🔬 Web development topics like DOM manipulation and CSS.
+🌱 I’m currently learning:
+🗄️ Database normalization (1NF, 2NF, 3NF).
+🖥️ Advanced Python concepts and libraries for data science.
+🌐 Cloud technologies and how they integrate with DevOps.
+💼 Skills I already have:
+👨‍💻 Programming: C, C++, Python, SQL, HTML/CSS.
+🛠️ Tools: Linux, Bash scripting.
+📊 Software development lifecycle, testing processes.
 
  </div>
  
