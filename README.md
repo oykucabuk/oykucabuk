@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oyku+Cabuk!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oyku+Cabuk!+Computer+Science+Student;Aspiring+Software+Developer;Iot+Practitioner;" />
 </h1>
 
 <h3 align="center">A passionate computer science student from Canada 🇨🇦</h3>
