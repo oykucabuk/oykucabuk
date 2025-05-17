@@ -12,14 +12,14 @@
  <br />
 💻 C++ projects involving memory management and inheritance.
 🧠 Enhancing Python skills with a focus on AI and machine learning.
-🔬 Web development topics like DOM manipulation and CSS.
+🔬 Web development topics like DOM manipulation , CRUD and CSS.
 <br />
 🌱 I’m currently learning:
 🗄️ Database normalization (1NF, 2NF, 3NF).
 🖥️ Advanced Python concepts and libraries for data science.
 🌐 Cloud technologies and how they integrate with DevOps.
 💼 Skills I already have:
-👨‍💻 Programming: C, C++, Python, SQL, HTML/CSS.
+👨‍💻 Programming: C, C++, Python, JavaScript,SQL, HTML/CSS.
 🛠️ Tools: Linux, Bash scripting.
 📊 Software development lifecycle, testing processes.
  <br />
@@ -42,8 +42,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,mysql" /><br>
 </div>
 
 <br/>
