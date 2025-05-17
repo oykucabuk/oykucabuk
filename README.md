@@ -15,7 +15,6 @@
 🔬 Web development topics like DOM manipulation , CRUD and CSS.
 <br />
 🌱 I’m currently learning:
-🗄️ Database normalization (1NF, 2NF, 3NF).
 🖥️ Advanced Python concepts and libraries for data science.
 🌐 Cloud technologies and how they integrate with DevOps.
 💼 Skills I already have:
