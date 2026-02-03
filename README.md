@@ -9,20 +9,22 @@
 <div align="center">
  
  🔭 I’m currently working on:
- <br />
-💻 C++ projects involving memory management and inheritance.
-🧠 Enhancing Python skills with a focus on AI and machine learning.
-🔬 Web development topics like DOM manipulation , CRUD and CSS.
+<br />
+💻 Full-stack web projects using React / Next.js, APIs, and modern UI design.
+🧠 Strengthening Python for data processing, automation, and AI-related tasks.
+⚙️ Backend development with Node.js, Express, and databases (SQL & MongoDB).
 <br />
 🌱 I’m currently learning:
-🖥️ Advanced Python concepts and libraries for data science.
-🌐 Cloud technologies and how they integrate with DevOps.
+🖥️ Advanced data handling & analytics with Python.
+☁️ Cloud concepts and how web apps integrate with modern deployment tools.
+📐 Writing cleaner, scalable code using better project structure and best practices.
 💼 Skills I already have:
-👨‍💻 Programming: C, C++, Python, JavaScript,SQL, HTML/CSS.
-🛠️ Tools: Linux, Bash scripting.
-📊 Software development lifecycle, testing processes.
- <br />
- </div>
+👨‍💻 Programming: C, C++, Python, JavaScript, SQL, HTML, CSS
+⚛️ Web: React, Next.js, REST APIs, CRUD operations
+🛠️ Tools: Git, Linux, Bash, VS Code, Postman
+📊 Software development lifecycle, debugging, and testing processes
+<br />
+</div>
  
 <div align="center"> 
   <a href="ocabuk@myseneca.ca">
@@ -37,16 +39,12 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,mysql" /><br>
-</div>
 
-<br/>
-<hr/>
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2> <br/> <div align="center"> <!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap" /><br/>
+<!-- Backend & Databases -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,c,cpp" /><br/>
+<!-- Tools & Dev Environment --> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman,figma" /> </div> <br/> <hr/>
 
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=oykucabuk&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
